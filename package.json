@@ -1,6 +1,4 @@
-{
-  "name": "git-parser",
-  "version": "0.3.0",
+
   "description": "Parse Git output",
   "main": "index.js",
   "scripts": {
